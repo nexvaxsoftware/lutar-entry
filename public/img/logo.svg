@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 80 80"
+   id="vector"
+   version="1.1"
+   sodipodi:docname="lutar_logo_new_red-black_80x80 .svg"
+   width="80"
+   height="80"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs59" />
+  <sodipodi:namedview
+     id="namedview57"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     width="80px"
+     showborder="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="5.09375"
+     inkscape:cx="16.883436"
+     inkscape:cy="80"
+     inkscape:window-width="1920"
+     inkscape:window-height="1066"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="group" />
+  <path
+     id="path"
+     d="M 64.516,0 H 15.484 C 6.9325,0 0,6.9325 0,15.484 V 64.516 C 0,73.0675 6.9325,80 15.484,80 H 64.516 C 73.0675,80 80,73.0675 80,64.516 V 15.484 C 80,6.9325 73.0675,0 64.516,0 Z"
+     fill="#ffa800"
+     stroke-width="0.5"
+     style="fill:#f9f9f9" />
+  <g
+     id="group"
+     transform="matrix(0.40651457,0,0,0.40651457,7.637199,7.3165937)">
+    <path
+       id="path_1"
+       d="m 28.772,45.144 c -2.252,0.692 -5.528,2.272 -7.268,3.556 -3.583,2.469 -8.496,10.469 -8.496,13.728 0,1.581 7.063,6.618 33.165,23.408 l 33.166,21.334 33.37,-21.433 c 18.323,-11.852 33.37,-22.123 33.37,-22.914 0,-5.135 -6.039,-12.938 -12.795,-16.395 -3.992,-2.173 -5.118,-2.173 -52.205,-2.37 -37.158,-0.198 -49.032,0.099 -52.307,1.086 z"
+       fill="#4d4d4d"
+       stroke-width="1"
+       style="fill:#800000;stroke:none;stroke-opacity:1" />
+    <path
+       id="path_2"
+       d="M 5.638,66.379 C 4.409,67.663 4,70.33 4,77.441 c 0,10.074 1.126,13.037 5.425,14.124 1.945,0.395 2.559,1.58 3.583,6.222 1.535,7.309 5.118,12.346 11.26,15.803 4.504,2.666 5.63,2.765 19.449,3.061 8.803,0.297 16.583,-0.098 19.346,-0.691 4.3,-1.086 12.591,-5.63 12.591,-6.914 0,-0.296 -15.457,-10.469 -34.189,-22.519 C 9.22,65.885 7.173,64.7 5.638,66.379 Z m 147.914,0 c 1.228,1.284 1.638,3.951 1.638,11.062 0,10.074 -1.126,13.037 -5.425,14.124 -1.945,0.395 -2.56,1.58 -3.583,6.222 -1.536,7.309 -5.118,12.346 -11.26,15.803 -4.504,2.666 -5.63,2.765 -19.449,3.061 -8.803,0.297 -16.583,-0.098 -19.347,-0.691 -4.299,-1.086 -12.59,-5.63 -12.59,-6.914 0,-0.296 15.457,-10.469 34.189,-22.519 32.244,-20.642 34.291,-21.827 35.827,-20.148 z"
+       fill="#333333"
+       stroke="#000000"
+       stroke-width="1"
+       style="fill:#000000;stroke:none" />
+    <path
+       id="path_3"
+       d="m 130.316,45.144 c 2.252,0.692 5.527,2.272 7.267,3.556 3.583,2.469 8.496,10.469 8.496,13.728 0,1.581 -7.063,6.618 -33.165,23.408 L 79.748,107.17 46.378,85.737 C 28.055,73.885 13.008,63.614 13.008,62.823 c 0,-5.135 6.039,-12.938 12.795,-16.395 3.992,-2.173 5.118,-2.173 52.205,-2.37 37.158,-0.198 49.032,0.099 52.308,1.086 z"
+       fill="#4d4d4d"
+       stroke="#000000"
+       stroke-width="1"
+       style="fill:#800000;fill-opacity:1;stroke:none;stroke-opacity:1" />
+  </g>
+</svg>
