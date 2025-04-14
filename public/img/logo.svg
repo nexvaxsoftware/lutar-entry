@@ -1,472 +1,73 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   width="80"
-   height="80"
-   viewBox="0 0 21.166666 21.166667"
-   version="1.1"
-   id="svg1718"
+   version="1.0"
+   width="80.025444pt"
+   height="80.033005pt"
+   viewBox="0 0 80.025444 80.033005"
+   preserveAspectRatio="xMidYMid meet"
+   id="svg16"
+   sodipodi:docname="logo.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
-   sodipodi:docname="lutar_logo_square_80x80.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs20" />
   <sodipodi:namedview
-     id="namedview1720"
+     id="namedview18"
      pagecolor="#ffffff"
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
+     inkscape:document-units="pt"
      showgrid="false"
      inkscape:showpageshadow="false"
      showborder="false"
-     inkscape:zoom="1.8116734"
-     inkscape:cx="70.100935"
-     inkscape:cy="168.07665"
+     inkscape:zoom="1"
+     inkscape:cx="401"
+     inkscape:cy="236.5"
      inkscape:window-width="1920"
      inkscape:window-height="1066"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g14"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0"
-     units="px" />
-  <defs
-     id="defs1715">
-    <linearGradient
-       id="6343"
-       inkscape:swatch="solid">
-      <stop
-         style="stop-color:#88e0eb;stop-opacity:1;"
-         offset="0"
-         id="stop6531" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient6343"
-       inkscape:swatch="gradient">
-      <stop
-         style="stop-color:#4b4b4b;stop-opacity:1;"
-         offset="0"
-         id="stop6339" />
-      <stop
-         style="stop-color:#88e0eb;stop-opacity:0;"
-         offset="1"
-         id="stop6341" />
-    </linearGradient>
-    <filter
-       id="editing-crystal"
-       x="-0.064172114"
-       y="-0.33147352"
-       width="1.1382057"
-       height="1.7883726">
-      <feMorphology
-         operator="dilate"
-         radius="2"
-         in="SourceGraphic"
-         result="border"
-         id="feMorphology1433" />
-      <feFlood
-         flood-color="#fff"
-         result="black"
-         id="feFlood1435" />
-      <feMorphology
-         operator="dilate"
-         radius="2"
-         in="SourceGraphic"
-         result="erode"
-         id="feMorphology1437" />
-      <feGaussianBlur
-         in="erode"
-         stdDeviation="4"
-         result="blur"
-         id="feGaussianBlur1439" />
-      <feOffset
-         in="blur"
-         dx="2"
-         dy="2"
-         result="offset"
-         id="feOffset1441" />
-      <feComposite
-         operator="atop"
-         in="offset"
-         in2="black"
-         result="merge"
-         id="feComposite1443" />
-      <feComposite
-         operator="in"
-         in="merge"
-         in2="SourceGraphic"
-         result="inner-shadow"
-         id="feComposite1445" />
-      <feGaussianBlur
-         in="SourceGraphic"
-         stdDeviation="2.5"
-         result="shadow1"
-         id="feGaussianBlur1447" />
-      <feOffset
-         in="shadow1"
-         dx="0"
-         dy="5"
-         result="shadow"
-         id="feOffset1449" />
-      <feSpecularLighting
-         in="SourceGraphic"
-         result="specular"
-         surfaceScale="1.5"
-         specularConstant="100"
-         specularExponent="10"
-         lighting-color="#ffffff"
-         id="feSpecularLighting1453">
-        <fePointLight
-           x="250"
-           y="-300"
-           z="-400"
-           id="fePointLight1451" />
-      </feSpecularLighting>
-      <feGaussianBlur
-         in="specular"
-         stdDeviation="1"
-         result="specular2"
-         id="feGaussianBlur1455" />
-      <feComposite
-         operator="in"
-         in="specular2"
-         in2="SourceAlpha"
-         result="specular3"
-         id="feComposite1457" />
-      <feMerge
-         result="merge"
-         id="feMerge1465">
-        <feMergeNode
-           in="border"
-           id="feMergeNode1459" />
-        <feMergeNode
-           in="inner-shadow"
-           id="feMergeNode1461" />
-        <feMergeNode
-           in="specular3"
-           id="feMergeNode1463" />
-      </feMerge>
-      <feComponentTransfer
-         in="merge"
-         result="final"
-         id="feComponentTransfer1469">
-        <feFuncA
-           type="linear"
-           slope="0.9"
-           intercept="0"
-           id="feFuncA1467" />
-      </feComponentTransfer>
-      <feMerge
-         id="feMerge1475">
-        <feMergeNode
-           in="shadow"
-           id="feMergeNode1471" />
-        <feMergeNode
-           in="final"
-           id="feMergeNode1473" />
-      </feMerge>
-    </filter>
-    <filter
-       id="editing-crystal-6"
-       x="-0.055731602"
-       y="-0.11762038"
-       width="1.1176556"
-       height="1.2736499">
-      <feMorphology
-         operator="dilate"
-         radius="2"
-         in="SourceGraphic"
-         result="border"
-         id="feMorphology1433-2" />
-      <feFlood
-         flood-color="#fff"
-         result="black"
-         id="feFlood1435-9" />
-      <feMorphology
-         operator="dilate"
-         radius="2"
-         in="SourceGraphic"
-         result="erode"
-         id="feMorphology1437-1" />
-      <feGaussianBlur
-         in="erode"
-         stdDeviation="4"
-         result="blur"
-         id="feGaussianBlur1439-2" />
-      <feOffset
-         in="blur"
-         dx="2"
-         dy="2"
-         result="offset"
-         id="feOffset1441-7" />
-      <feComposite
-         operator="atop"
-         in="offset"
-         in2="black"
-         result="merge"
-         id="feComposite1443-0" />
-      <feComposite
-         operator="in"
-         in="merge"
-         in2="SourceGraphic"
-         result="inner-shadow"
-         id="feComposite1445-9" />
-      <feGaussianBlur
-         in="SourceGraphic"
-         stdDeviation="2.5"
-         result="shadow1"
-         id="feGaussianBlur1447-3" />
-      <feOffset
-         in="shadow1"
-         dx="0"
-         dy="5"
-         result="shadow"
-         id="feOffset1449-6" />
-      <feSpecularLighting
-         in="SourceGraphic"
-         result="specular"
-         surfaceScale="1.5"
-         specularConstant="100"
-         specularExponent="10"
-         lighting-color="#ffffff"
-         id="feSpecularLighting1453-0">
-        <fePointLight
-           x="250"
-           y="-300"
-           z="-400"
-           id="fePointLight1451-6" />
-      </feSpecularLighting>
-      <feGaussianBlur
-         in="specular"
-         stdDeviation="1"
-         result="specular2"
-         id="feGaussianBlur1455-2" />
-      <feComposite
-         operator="in"
-         in="specular2"
-         in2="SourceAlpha"
-         result="specular3"
-         id="feComposite1457-6" />
-      <feMerge
-         result="merge"
-         id="feMerge1465-1">
-        <feMergeNode
-           in="border"
-           id="feMergeNode1459-8" />
-        <feMergeNode
-           in="inner-shadow"
-           id="feMergeNode1461-7" />
-        <feMergeNode
-           in="specular3"
-           id="feMergeNode1463-9" />
-      </feMerge>
-      <feComponentTransfer
-         in="merge"
-         result="final"
-         id="feComponentTransfer1469-2">
-        <feFuncA
-           type="linear"
-           slope="0.9"
-           intercept="0"
-           id="feFuncA1467-0" />
-      </feComponentTransfer>
-      <feMerge
-         id="feMerge1475-2">
-        <feMergeNode
-           in="shadow"
-           id="feMergeNode1471-3" />
-        <feMergeNode
-           in="final"
-           id="feMergeNode1473-7" />
-      </feMerge>
-    </filter>
-    <filter
-       id="editing-crystal-3"
-       x="-0.054627123"
-       y="-0.11659916"
-       width="1.1153239"
-       height="1.2693057">
-      <feMorphology
-         operator="dilate"
-         radius="2"
-         in="SourceGraphic"
-         result="border"
-         id="feMorphology1433-6" />
-      <feFlood
-         flood-color="#fff"
-         result="black"
-         id="feFlood1435-1" />
-      <feMorphology
-         operator="dilate"
-         radius="2"
-         in="SourceGraphic"
-         result="erode"
-         id="feMorphology1437-2" />
-      <feGaussianBlur
-         in="erode"
-         stdDeviation="4"
-         result="blur"
-         id="feGaussianBlur1439-9" />
-      <feOffset
-         in="blur"
-         dx="2"
-         dy="2"
-         result="offset"
-         id="feOffset1441-3" />
-      <feComposite
-         operator="atop"
-         in="offset"
-         in2="black"
-         result="merge"
-         id="feComposite1443-1" />
-      <feComposite
-         operator="in"
-         in="merge"
-         in2="SourceGraphic"
-         result="inner-shadow"
-         id="feComposite1445-94" />
-      <feGaussianBlur
-         in="SourceGraphic"
-         stdDeviation="2.5"
-         result="shadow1"
-         id="feGaussianBlur1447-7" />
-      <feOffset
-         in="shadow1"
-         dx="0"
-         dy="5"
-         result="shadow"
-         id="feOffset1449-8" />
-      <feSpecularLighting
-         in="SourceGraphic"
-         result="specular"
-         surfaceScale="1.5"
-         specularConstant="100"
-         specularExponent="10"
-         lighting-color="#ffffff"
-         id="feSpecularLighting1453-4">
-        <fePointLight
-           x="250"
-           y="-300"
-           z="-400"
-           id="fePointLight1451-5" />
-      </feSpecularLighting>
-      <feGaussianBlur
-         in="specular"
-         stdDeviation="1"
-         result="specular2"
-         id="feGaussianBlur1455-0" />
-      <feComposite
-         operator="in"
-         in="specular2"
-         in2="SourceAlpha"
-         result="specular3"
-         id="feComposite1457-3" />
-      <feMerge
-         result="merge"
-         id="feMerge1465-6">
-        <feMergeNode
-           in="border"
-           id="feMergeNode1459-1" />
-        <feMergeNode
-           in="inner-shadow"
-           id="feMergeNode1461-0" />
-        <feMergeNode
-           in="specular3"
-           id="feMergeNode1463-6" />
-      </feMerge>
-      <feComponentTransfer
-         in="merge"
-         result="final"
-         id="feComponentTransfer1469-3">
-        <feFuncA
-           type="linear"
-           slope="0.9"
-           intercept="0"
-           id="feFuncA1467-2" />
-      </feComponentTransfer>
-      <feMerge
-         id="feMerge1475-0">
-        <feMergeNode
-           in="shadow"
-           id="feMergeNode1471-6" />
-        <feMergeNode
-           in="final"
-           id="feMergeNode1473-1" />
-      </feMerge>
-    </filter>
-  </defs>
-  <path
-     id="path"
-     d="M 17.069859,0 H 4.0968084 C 1.8342243,0 3.3115446e-7,1.834224 3.3115446e-7,4.0968081 V 17.069859 C 3.3115446e-7,19.332443 1.8342243,21.166667 4.0968084,21.166667 H 17.069859 c 2.262584,0 4.096808,-1.834224 4.096808,-4.096808 V 4.0968081 C 21.166667,1.834224 19.332443,0 17.069859,0 Z"
-     fill="#ffa800"
-     stroke-width="0.132292"
-     style="opacity:0.1;fill:#666666" />
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata2">
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-0.25492548,-7.4848331)">
-    <g
-       filter="url(#editing-crystal)"
-       id="g1484"
-       transform="matrix(0.06433932,0,0,0.06433932,-5.3662403,18.166455)"
-       style="stroke-width:0.999074;stroke-miterlimit:4;stroke-dasharray:none">
-      <g
-         transform="translate(101.14704,102.905)"
-         id="g1482"
-         style="stroke-width:0.999074;stroke-miterlimit:4;stroke-dasharray:none">
-        <path
-           d="M 45.88,-8.13 V 0 H 8.81 V 0 Q 7.94,0 7.19,-0.31 v 0 0 Q 6.44,-0.63 5.89,-1.17 v 0 0 Q 5.34,-1.72 5.03,-2.47 v 0 0 Q 4.72,-3.22 4.72,-4.09 v 0 -40.72 h 8.12 v 36.68 z m 47.5,-36.68 v 40.72 0 q 0,0.87 -0.32,1.62 v 0 0 q -0.31,0.75 -0.87,1.3 v 0 0 q -0.56,0.54 -1.31,0.86 v 0 0 Q 90.13,0 89.28,0 V 0 H 70.97 v 0 q -2.59,0 -5.25,-0.56 v 0 0 Q 63.06,-1.13 60.58,-2.3 v 0 0 q -2.49,-1.17 -4.67,-2.98 v 0 0 q -2.19,-1.81 -3.83,-4.3 v 0 0 q -1.64,-2.48 -2.58,-5.69 v 0 0 q -0.94,-3.2 -0.94,-7.14 v 0 -22.4 h 8.13 v 22.4 0 q 0,3.44 0.95,5.82 v 0 0 q 0.95,2.37 2.42,3.96 v 0 0 q 1.47,1.6 3.22,2.5 v 0 0 q 1.75,0.91 3.33,1.35 v 0 0 q 1.58,0.44 2.78,0.55 v 0 0 q 1.2,0.1 1.58,0.1 v 0 h 14.28 v -36.68 z m 49.93,0 v 8.12 h -17.9 V 0 h -8.13 V -36.69 H 99.34 v -8.12 z M 184.22,3.72 V 11 H 148.5 V 3.72 Z m 52.62,-44.44 V 0 h -8.12 V -11 H 200.16 V 0 h -8.13 v -22.41 0 q 0,-4.9 1.69,-9.03 v 0 0 q 1.69,-4.12 4.69,-7.09 v 0 0 q 3,-2.97 7.09,-4.63 v 0 0 q 4.09,-1.65 8.94,-1.65 v 0 h 18.31 v 0 q 0.84,0 1.59,0.31 v 0 0 q 0.75,0.31 1.32,0.87 v 0 0 q 0.56,0.57 0.87,1.32 v 0 0 q 0.31,0.75 0.31,1.59 z m -36.68,18.31 v 3.28 h 28.56 v -17.56 h -14.28 v 0 q -0.38,0 -1.58,0.11 v 0 0 q -1.2,0.11 -2.78,0.55 v 0 0 q -1.58,0.44 -3.33,1.34 v 0 0 q -1.75,0.91 -3.22,2.5 v 0 0 q -1.47,1.6 -2.42,3.99 v 0 0 q -0.95,2.39 -0.95,5.79 z m 90.9,-12.53 v 5.19 0 q 0,2.78 -0.68,4.97 v 0 0 q -0.69,2.19 -1.86,3.86 v 0 0 q -1.18,1.67 -2.71,2.86 v 0 0 q -1.53,1.18 -3.2,1.95 v 0 0 q -1.67,0.77 -3.38,1.11 v 0 0 q -1.7,0.34 -3.2,0.34 v 0 L 293,0 H 280.44 L 263.5,-14.66 h -5.84 v -8.12 h 18.37 v 0 q 1.53,-0.13 2.8,-0.64 v 0 0 q 1.26,-0.52 2.19,-1.39 v 0 0 q 0.92,-0.88 1.42,-2.11 v 0 0 q 0.5,-1.24 0.5,-2.83 v 0 -5.13 0 q 0,-0.68 -0.17,-1.04 v 0 0 q -0.18,-0.36 -0.44,-0.53 v 0 0 q -0.27,-0.18 -0.56,-0.21 v 0 0 q -0.3,-0.03 -0.55,-0.03 v 0 H 254.41 V 0 h -8.13 v -40.72 0 q 0,-0.84 0.31,-1.59 v 0 0 q 0.32,-0.75 0.86,-1.32 v 0 0 q 0.55,-0.56 1.3,-0.87 v 0 0 q 0.75,-0.31 1.63,-0.31 v 0 h 30.84 v 0 q 2.72,0 4.59,0.98 v 0 0 q 1.88,0.99 3.05,2.47 v 0 0 q 1.17,1.48 1.69,3.2 v 0 0 q 0.51,1.72 0.51,3.22 z"
-           fill="#000000"
-           stroke="#88e0eb"
-           stroke-width="1.5"
-           id="path1480"
-           style="stroke-width:0.999074;stroke-miterlimit:4;stroke-dasharray:none" />
-      </g>
-    </g>
-    <g
-       filter="url(#editing-crystal)"
-       id="g1484-5"
-       transform="matrix(0.05752209,0,0,0.05752209,-4.5278657,11.196133)"
-       style="stroke-width:0.999074;stroke-miterlimit:4;stroke-dasharray:none;filter:url(#editing-crystal-3)">
-      <g
-         transform="translate(101.14704,102.905)"
-         id="g1482-5"
-         style="stroke-width:0.999074;stroke-miterlimit:4;stroke-dasharray:none">
-        <g
-           id="group"
-           transform="matrix(2.1794209,0,0,2.1794209,-8.7176834,-216.07679)">
-          <path
-             id="path_1"
-             d="m 28.768049,42.778565 c -2.252,0.692 -5.528,2.272 -7.268,3.556 -3.583,2.469 -8.496,10.469 -8.496,13.728 0,1.581 7.063,6.618 33.165,23.408 l 33.166,21.334005 33.370001,-21.433005 c 18.323,-11.852 33.37,-22.123 33.37,-22.914 0,-5.135 -6.039,-12.938 -12.795,-16.395 -3.992,-2.173 -5.118,-2.173 -52.205001,-2.37 -37.158,-0.198 -49.032,0.099 -52.307,1.086 z"
-             fill="#4d4d4d"
-             stroke-width="1"
-             style="fill:#88e0eb;fill-opacity:1;stroke:#88e0eb;stroke-width:0.726094;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-          <path
-             id="path_2"
-             d="M 5.638,66.379 C 4.409,67.663 4,70.33 4,77.441 c 0,10.074 1.126,13.037 5.425,14.124 1.945,0.395 2.559,1.58 3.583,6.222 1.535,7.309 5.118,12.346 11.26,15.803 4.504,2.666 5.63,2.765 19.449,3.061 8.803,0.297 16.583,-0.098 19.346,-0.691 4.3,-1.086 12.591,-5.63 12.591,-6.914 0,-0.296 -15.457,-10.469 -34.189,-22.519 C 9.22,65.885 7.173,64.7 5.638,66.379 Z m 147.914,0 c 1.228,1.284 1.638,3.951 1.638,11.062 0,10.074 -1.126,13.037 -5.425,14.124 -1.945,0.395 -2.56,1.58 -3.583,6.222 -1.536,7.309 -5.118,12.346 -11.26,15.803 -4.504,2.666 -5.63,2.765 -19.449,3.061 -8.803,0.297 -16.583,-0.098 -19.347,-0.691 -4.299,-1.086 -12.59,-5.63 -12.59,-6.914 0,-0.296 15.457,-10.469 34.189,-22.519 32.244,-20.642 34.291,-21.827 35.827,-20.148 z"
-             fill="#333333"
-             stroke="#000000"
-             stroke-width="1"
-             style="fill:#000000;stroke:none" />
-          <path
-             id="path_3"
-             d="m 130.31205,42.778565 c 2.252,0.692 5.527,2.272 7.267,3.556 3.583,2.469 8.496,10.469 8.496,13.728 0,1.581 -7.063,6.618 -33.165,23.408 l -33.166001,21.334005 -33.37,-21.433005 c -18.323,-11.852 -33.37,-22.123 -33.37,-22.914 0,-5.135 6.039,-12.938 12.795,-16.395 3.992,-2.173 5.118,-2.173 52.205,-2.37 37.158001,-0.198 49.032001,0.099 52.308001,1.086 z"
-             fill="#4d4d4d"
-             stroke="#000000"
-             stroke-width="1"
-             style="fill:#88e0eb;fill-opacity:1;stroke:#88e0eb;stroke-width:0.99909;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-        </g>
-      </g>
-    </g>
+     transform="matrix(0.0130784,0,0,-0.01464089,-65.299074,91.784857)"
+     fill="#000000"
+     stroke="none"
+     id="g14"
+     style="fill:#ffffff;fill-opacity:1">
+    <path
+       d="m 6673,6255 c -346,-40 -574,-106 -911,-266 -334,-158 -507,-350 -592,-656 -38,-138 -133,-550 -156,-673 -26,-148 -23,-295 9,-412 71,-262 217,-567 425,-890 42,-65 77,-116 79,-114 2,1 19,95 37,207 60,355 117,572 185,707 17,34 31,67 31,74 0,7 -16,36 -36,63 -47,66 -154,246 -199,335 -67,132 -70,243 -9,310 48,53 225,189 339,261 355,223 767,296 1348,239 684,-68 1368,-297 1910,-642 59,-37 112,-68 118,-68 23,0 189,122 245,181 33,35 87,109 119,164 33,55 84,125 115,157 49,48 67,59 131,78 l 74,22 -29,23 c -88,70 -517,302 -740,400 -601,264 -1209,432 -1791,495 -167,18 -564,21 -702,5 z"
+       id="path4"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:7.22668;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 9865,5168 c -43,-24 -78,-66 -142,-177 -115,-195 -247,-308 -518,-441 -360,-176 -813,-314 -1380,-419 -477,-89 -719,-112 -972,-93 -166,12 -250,34 -418,109 -163,73 -226,94 -297,100 -202,17 -298,-130 -397,-607 -54,-263 -73,-420 -74,-605 0,-303 44,-426 242,-665 66,-79 101,-104 164,-114 31,-6 38,-4 43,11 3,10 23,59 45,108 36,84 92,239 123,345 14,45 106,222 151,289 14,19 25,40 25,45 0,5 17,32 39,60 21,28 70,96 108,151 108,153 222,249 378,318 100,44 73,36 2205,592 1306,340 1398,361 1550,351 l 95,-6 -26,23 c -78,66 -435,350 -569,451 -217,164 -313,208 -375,174 z"
+       id="path6"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:7.22668;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 10697.538,4391.418 c -172.152,-35.8648 -213.14,-46.1119 -461.12,-110.6687 -109.644,-28.6918 -280.7706,-73.7791 -379.1427,-99.3968 -253.1034,-65.5815 -755.2114,-195.7197 -1086.1928,-281.7953 -154.7312,-39.9637 -394.5134,-104.5205 -532.8493,-143.4595 -138.3359,-38.939 -297.1659,-81.9768 -353.525,-96.3227 -56.3591,-14.346 -160.8795,-44.0626 -232.6092,-66.6062 -71.7297,-22.5436 -149.6077,-43.0378 -172.1513,-46.1119 -40.9884,-5.1236 -220.3127,-73.7792 -363.7721,-139.3606 -113.7429,-52.2602 -309.4625,-205.9668 -379.1428,-299.2154 -21.5189,-29.7166 -59.4332,-74.8038 -83.0015,-99.3969 -109.644,-113.7428 -286.9189,-543.0964 -298.1907,-724.4701 l -6.1482,-81.9768 32.7907,-27.6672 c 90.1745,-74.8038 471.3667,-139.3605 2035.0744,-341.2284 281.7953,-35.8649 542.0717,-68.6556 578.9612,-71.7298 l 66.6062,-6.1482 584.0848,597.406 c 680.4073,697.8276 808.4963,828.9905 1050.3283,1085.1681 307.413,324.8331 350.45,372.9945 369.92,416.0323 20.494,45.0873 40.988,203.9173 33.815,255.1528 -24.593,162.929 -50.21,226.461 -111.693,279.7459 -31.766,28.6919 -44.063,32.7907 -95.298,31.766 -31.766,0 -120.916,-13.3212 -196.744,-29.7166 z"
+       id="path8"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:7.22668;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 11023,3711 c -37,-32 -311,-308 -608,-612 -297,-305 -688,-706 -870,-892 -181,-186 -334,-345 -338,-353 -16,-28 1,-42 59,-50 102,-12 188,13 405,118 229,111 408,211 500,279 85,63 238,222 312,326 32,45 93,149 136,231 93,178 111,204 164,243 58,42 97,101 160,242 124,278 192,500 159,521 -6,3 -41,-20 -79,-53 z"
+       id="path10"
+       style="fill:#ffff00;fill-opacity:1;stroke:#000000;stroke-width:7.22668196;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 6275,1990 c -103,-19 -150,-60 -161,-138 -6,-50 10,-159 26,-172 3,-3 28,-66 54,-140 92,-259 162,-377 248,-421 47,-24 100,-27 203,-9 99,16 121,7 192,-77 166,-196 293,-248 543,-223 152,16 237,48 607,234 367,183 566,293 663,367 93,71 298,265 305,290 12,38 66,29 -575,103 -843,99 -1507,166 -1825,186 -177,11 -221,11 -280,0 z"
+       id="path12"
+       style="fill:#ffff00;fill-opacity:0.999995;stroke:#000000;stroke-width:7.22668196;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

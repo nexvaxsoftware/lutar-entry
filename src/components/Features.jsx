@@ -117,7 +117,7 @@ const Features = () => (
           src="videos/feature-1.mp4"
           title={
             <>
-              radia<b>n</b>t
+              mobile <b>ap</b>p
             </>
           }
           description="A cross-platform metagame app, turning your activities across Web2 and Web3 games into a rewarding adventure."
@@ -131,10 +131,10 @@ const Features = () => (
             src="videos/feature-2.mp4"
             title={
               <>
-                zig<b>m</b>a
+                tok<b>e</b>n
               </>
             }
-            description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
+            description="A gaming-inspired NFT collection - the IP primed for expansion."
             isComingSoon
           />
         </BentoTilt>
@@ -144,7 +144,7 @@ const Features = () => (
             src="videos/feature-3.mp4"
             title={
               <>
-                n<b>e</b>xus
+                s<b>o</b>cial
               </>
             }
             description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
@@ -157,10 +157,10 @@ const Features = () => (
             src="videos/feature-4.mp4"
             title={
               <>
-                az<b>u</b>l
+                bo<b>x</b>es
               </>
             }
-            description="A cross-world AI Agent - elevating your gameplay to be more fun and productive."
+            description="The Loot Boxes - elevating your gameplay to be more fun and productive."
             isComingSoon
           />
         </BentoTilt>
